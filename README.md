@@ -25,7 +25,7 @@ If your store mirrors listings from eBay using WP-Lister, the condition descript
 
 Default WooCommerce excerpt shown on the product page.
 
-![Before excerpt](https://raw.githubusercontent.com/ManlyElectronics/WP-plugin-manly-product-excerpt/main/docs/screenshots/Before.png)
+![Before excerpt](https://raw.githubusercontent.com/ManlyElectronics/WP-plugin-manly-product-excerpt/main/docs/screenshots/Before.png?v=2)
 
 ---
 
